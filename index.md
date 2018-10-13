@@ -1,7 +1,7 @@
 ## Key Projects
 
-*  SFDX-Falcon CLI Plugin - https://sfdx-isv.github.io/sfdx-falcon
-*  SFDX-Falcon Template - https://github.com/sfdx-isv/sfdx-falcon-template
+*  [SFDX-Falcon CLI Plugin](https://sfdx-isv.github.io/sfdx-falcon)
+*  [SFDX-Falcon Template](https://github.com/sfdx-isv/sfdx-falcon-template)
 
 <!--
 ## Support or Contact
